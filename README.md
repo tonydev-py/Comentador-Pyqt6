@@ -1,0 +1,1 @@
+# Comentador-Pyqt6
